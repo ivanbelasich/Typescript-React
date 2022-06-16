@@ -1,0 +1,20 @@
+ul {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  box-shadow: 0 0 2px grey;
+  width: 400px;
+  margin: 2em;
+  padding: 1em;
+}
+
+img {
+  border-radius: 50%;
+}
